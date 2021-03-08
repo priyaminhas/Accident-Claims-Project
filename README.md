@@ -2,4 +2,4 @@
 Accident Claims Project
 
 ## State Diagram
-./Copy of cliam_settlement.png
+<img src='./Copy of cliam_settlement.png' />
